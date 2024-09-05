@@ -1,0 +1,19 @@
+.container {
+ 
+    border: 2px solid rgb(0, 200, 17);
+    padding: 20px;
+    margin: 100px;
+    background-color:rgb(99, 211, 170);
+    border-radius: 20px;
+    margin: 100px;
+    line-height: 10px;
+   
+    
+  
+  }
+  
+  .imag {
+    object-fit: cover;
+  
+    
+  }
